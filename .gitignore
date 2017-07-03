@@ -5,6 +5,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Aa]ssets/
+!/[Aa]ssets/[Ss]cripts/
 /_[Ss]cenes/
 /Assets/AssetStoreTools*
 /ProjectSettings/
@@ -37,3 +38,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
